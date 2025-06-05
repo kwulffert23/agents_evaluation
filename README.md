@@ -1,1 +1,1 @@
-Sample code to run agents evaluation using the Darabricks Mosaic AI Evakuation Framework
+Sample code to run agents evaluation using the Databricks Mosaic AI Evaluation Framework
